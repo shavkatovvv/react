@@ -1,0 +1,52 @@
+.title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #242d52;
+}
+
+.comment {
+    padding-top: 165px;
+    padding-bottom: 80px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 60px;
+}
+
+.item {
+    width: 540px;
+    background-color: #fafafa;
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    text-align: center;
+    position: relative;
+}
+
+.title__sm {
+    margin-bottom: 19px;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+}
+
+.img_block {
+    position: absolute;
+    left: 43%;
+    top: -16%;
+}

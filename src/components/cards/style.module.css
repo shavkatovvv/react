@@ -1,0 +1,41 @@
+.box {
+    width: 540px;
+}
+
+.num {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+    background-color: #f3603c;
+    border-radius: 39px;
+    padding: 10px 23px;
+    margin-bottom: 19px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+
+.title {
+    font-weight: 700;
+    margin-bottom: 19px;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+}
+
+.box {
+    margin-bottom: 40px;
+}
+
+.text {
+    opacity: 0.5;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+}
